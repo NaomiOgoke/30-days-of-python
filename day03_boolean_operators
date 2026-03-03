@@ -1,0 +1,17 @@
+
+base = 20
+height = 10
+area_of_triangle = 0.5 * base * height
+print(area_of_triangle)
+100.0
+a = 5
+b = 4
+c = 3
+perimeter = a + b + c
+print(perimeter)
+12
+lenght = 12
+width = 19
+area_of_rectangle = lenght * width
+print(area_of_rectangle)
+228
